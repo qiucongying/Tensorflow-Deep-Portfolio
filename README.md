@@ -1,6 +1,6 @@
 
 
-This is a deep learning course project. The file "Autoencoder.ipynb"(a tensorflow version) and "Autoencoder_keras.ipynb"(a keras version) include an deep neural network for S&P 500 index benchmarking.
+This is a deep learning course project. The file "Autoencoder.ipynb"(a tensorflow version) and "Autoencoder_keras.ipynb"(a keras version) include an deep neural network for S&P 500 index benchmarking. We also list the top 5 model. You can directly download them through the file "best_models".
 
 1. Abstract
 
