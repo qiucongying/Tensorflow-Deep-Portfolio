@@ -1,4 +1,10 @@
-1. This is a deep learning course project. In this work my partner Daniel Nachajon and I explore two broad themes: S&P 500 index benchmarking and smart portfolio construction. Our first aim is to create a model that is able to benchmark and predict the S&P 500. Our second aim is to approach the classic factor model through lens of deep learning. This second set of goals will ask us to use several of the same modeling ideas as in part but geared towards approximating underlying factors or themes of investing rather than the individual stocks themselves. We will use data provided from the Quandl API as well as Bloomberg where available. These sources provide price and economic data time-series for the members of the index.
+
+
+This is a deep learning course project. The file "Autoencoder.ipynb"(a tensorflow version) and "Autoencoder_keras.ipynb"(a keras version) include an deep neural network for S&P 500 index benchmarking.
+
+1. Abstract
+
+In this work my partner Daniel Nachajon and I explore two broad themes: S&P 500 index benchmarking and smart portfolio construction. Our first aim is to create a model that is able to benchmark and predict the S&P 500. Our second aim is to approach the classic factor model through lens of deep learning. This second set of goals will ask us to use several of the same modeling ideas as in part but geared towards approximating underlying factors or themes of investing rather than the individual stocks themselves. We will use data provided from the Quandl API as well as Bloomberg where available. These sources provide price and economic data time-series for the members of the index.
 
 2. Project Components
 
